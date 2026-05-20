@@ -1,1 +1,1 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@thepointsguy.com:80?encryption=none&security=none&type=ws&host=taalijavan.ir&path=%2FGGPPfZ3NKyOoKNiK%3Fed%3D2560#%F0%9F%8F%83%E2%80%8D%E2%99%80%EF%B8%8FFastly%2B%40Surfboardv2ray
+vless://bb6f6274-ddb5-4049-a4fc-808864c56380@hostioko.online:443?encryption=none&security=tls&type=ws&headerType=none&path=%2FHSTq9WCTWFMggFSaCJkoQDgqPDxFc2%3Fed%3D2560&host=hostioko.online&sni=hostioko.online&fp=chrome&alpn=http%2F1.1#Germany
