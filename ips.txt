@@ -1,8 +1,2 @@
-thepointsguy.com
-chairish.com
-cincinnati.com
-northjersey.com
-news-press.com
-theroot.com
-tomsguide.com
-news-leader.com
+104.16.0.0/13
+104.24.0.0/14
